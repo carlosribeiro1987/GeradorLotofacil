@@ -43,6 +43,28 @@ A figura abaixo mostra a janela com os jogos conferidos.
 
 ![Conferir Jogos Salvos](http://i.imgur.com/1cUODPF.png)
 
+###Como os jogos são gerados?
+
+Baseado no último resultado, o algoritmo de geração automática de jogos escolhe:
+
+* Dezenas fixas
+ * Quatro dezenas ímpares que saíram no último sorteio
+ * Quatro dezenas pares que saíram no último sorteio
+ * Uma dezena ímpar e uma dezena par que não saíram no último sorteio
+
+* Primeira Combinação
+ * Duas dezenas ímpares que não saíram no último sorteio
+ * Três dezenas pares que não saíram no último sorteio
+
+* Segunda Combinação
+ * Duas dezenas pares
+ * Três dezenas ímpares
+
+* Terceira Combinação
+ *As dezenas restantes não incluídas nas combinações anteriores.
+  
+Dessa forma, acertando as dezenas fixas e uma das combinações, ganha-se o prêmio máximo. O mesmo ocorre caso não acerte nenhuma das dezenas fixas.
+
 ##Licença:
 Este programa está sob a licença [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
 Você pode alterar e distribuir este programa, desde que mantido os créditos do criador. Para mais informações, consulte a [licença GPL v.3](https://www.gnu.org/licenses/gpl-3.0.txt).
