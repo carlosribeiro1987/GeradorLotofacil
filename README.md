@@ -11,7 +11,7 @@ Posteriormente, essa janela poderá ser substituída por alguma API da Caixa que
 ![Janela Último Resultado](http://i.imgur.com/JPcSvEW.png)
 
 ### **Janela Principal**
-Após informar o ultimo resultado, o usuário pode optar por gerar os jogos  automaticamente ou informar manualmente quais números pretende incluir nos jogos gerados.
+Após informar o último resultado, o usuário pode optar por gerar os jogos  automaticamente ou informar manualmente quais números pretende incluir nos jogos gerados.
 
 Gerar jogos automaticamente | Escolher os números manualmente
 ----------------------------|--------------------------------
@@ -47,23 +47,24 @@ A figura abaixo mostra a janela com os jogos conferidos.
 
 Baseado no último resultado, o algoritmo de geração automática de jogos escolhe:
 
-* Dezenas fixas
+* __Dezenas fixas__
  * Quatro dezenas ímpares que saíram no último sorteio
  * Quatro dezenas pares que saíram no último sorteio
  * Uma dezena ímpar e uma dezena par que não saíram no último sorteio
 
-* Primeira Combinação
+* __Primeira Combinação__
  * Duas dezenas ímpares que não saíram no último sorteio
  * Três dezenas pares que não saíram no último sorteio
 
-* Segunda Combinação
+* __Segunda Combinação__
  * Duas dezenas pares
  * Três dezenas ímpares
 
-* Terceira Combinação
- *As dezenas restantes não incluídas nas combinações anteriores.
+* __Terceira Combinação__
+ * As dezenas restantes não incluídas nas combinações anteriores.
   
 Dessa forma, acertando as dezenas fixas e uma das combinações, ganha-se o prêmio máximo. O mesmo ocorre caso não acerte nenhuma das dezenas fixas.
+No método manual, a escolha das dezenas fica a critério do usuário
 
 ##Licença:
 Este programa está sob a licença [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
