@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/26 18:40:33.115.pas,G:\AA-Projetos Delphi 2010\Unit1.pas=G:\AA-Projetos Delphi 2010\frmJanelaPrincipal.pas</Transaction>
+    <Transaction>2016/02/26 18:40:33.115.dfm,G:\AA-Projetos Delphi 2010\Unit1.dfm=G:\AA-Projetos Delphi 2010\frmJanelaPrincipal.dfm</Transaction>
+    <Transaction>2016/02/26 18:41:01.375.dproj,G:\AA-Projetos Delphi 2010\Project1.dproj=G:\AA-Projetos Delphi 2010\LOTOFACIL\prjGeradorLotofacil.dproj</Transaction>
+    <Transaction>2016/02/27 09:05:46.967.pas,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.pas=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmJgsGerados.pas</Transaction>
+    <Transaction>2016/02/27 09:05:46.967.dfm,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.dfm=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmJgsGerados.dfm</Transaction>
+    <Transaction>2016/02/27 09:38:47.258.pas,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.pas=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmUltimResult.pas</Transaction>
+    <Transaction>2016/02/27 09:38:47.258.dfm,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.dfm=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmUltimResult.dfm</Transaction>
+    <Transaction>2016/03/02 16:15:19.681.pas,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.pas=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmConfJogo.pas</Transaction>
+    <Transaction>2016/03/02 16:15:19.682.dfm,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.dfm=G:\AA-Projetos Delphi 2010\LOTOFACIL\frmConfJogo.dfm</Transaction>
+    <Transaction>2016/03/03 07:50:11.520.pas,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.pas=G:\AA-Projetos Delphi 2010\LOTOFACIL\untImprimeVolante.pas</Transaction>
+    <Transaction>2016/03/03 07:50:11.520.dfm,G:\AA-Projetos Delphi 2010\LOTOFACIL\Unit1.dfm=G:\AA-Projetos Delphi 2010\LOTOFACIL\untImprimeVolante.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
