@@ -73,6 +73,8 @@ type
     procedure FormCloseQuery(Sender: TObject; var CanClose: Boolean);
     procedure BitBtn1Click(Sender: TObject);
 
+    procedure Image1Click(Sender: TObject);
+
 
 
   private
@@ -90,7 +92,7 @@ var
 
 implementation
 
-uses frmJanelaPrincipal, frmConfJogo, untImprimeVolante;
+uses frmJanelaPrincipal, frmConfJogo, untImprimeVolante, untSobre;
 
 {$R *.dfm}
 
@@ -786,6 +788,7 @@ begin
      PosicResult := PosicResult + 1;
 end;
 
+
 procedure TfrmUltimoResultado.FormClose(Sender: TObject;
   var Action: TCloseAction);
 begin
@@ -807,6 +810,11 @@ begin
      PosicResult := 1;
      frmUltimoResultado.Show;
 
+end;
+
+procedure TfrmUltimoResultado.Image1Click(Sender: TObject);
+begin
+     frmSobre.Show;
 end;
 
 procedure TfrmUltimoResultado.btnResultado16Click(Sender: TObject);

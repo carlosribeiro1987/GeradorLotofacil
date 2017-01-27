@@ -1,6 +1,7 @@
 object frmUltimoResultado: TfrmUltimoResultado
   Left = 0
   Top = 0
+  Hint = 'Clique aqui para mais informa'#231#245'es sobre o programa.'
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = #218'ltimo Resultado'
@@ -18,6 +19,7 @@ object frmUltimoResultado: TfrmUltimoResultado
   Font.Style = []
   OldCreateOrder = False
   Position = poScreenCenter
+  ShowHint = True
   OnClose = FormClose
   OnCloseQuery = FormCloseQuery
   OnCreate = FormCreate
@@ -504,6 +506,7 @@ object frmUltimoResultado: TfrmUltimoResultado
       Top = 0
       Width = 191
       Height = 33
+      Cursor = crHelp
       Align = alClient
       Picture.Data = {
         0954506E67496D61676589504E470D0A1A0A0000000D49484452000002F80000
@@ -2726,6 +2729,7 @@ object frmUltimoResultado: TfrmUltimoResultado
         99165E3CEE1DBC790000000049454E44AE426082}
       Stretch = True
       Transparent = True
+      OnClick = Image1Click
       ExplicitWidth = 193
     end
   end

@@ -39,9 +39,6 @@
 			<DelphiCompile Include="prjGeradorLotofacil.dpr">
 				<MainSource>MainSource</MainSource>
 			</DelphiCompile>
-			<DCCReference Include="..\frmJanelaPrincipal.pas">
-				<Form>frmJanPrincipal</Form>
-			</DCCReference>
 			<DCCReference Include="frmJgsGerados.pas">
 				<Form>frmJogosGerados</Form>
 			</DCCReference>
@@ -53,6 +50,12 @@
 			</DCCReference>
 			<DCCReference Include="untImprimeVolante.pas">
 				<Form>frmImprimirVolante</Form>
+			</DCCReference>
+			<DCCReference Include="frmJanelaPrincipal.pas">
+				<Form>frmJanPrincipal</Form>
+			</DCCReference>
+			<DCCReference Include="untSobre.pas">
+				<Form>frmSobre</Form>
 			</DCCReference>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
