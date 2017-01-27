@@ -25,7 +25,7 @@ O usuário pode então imprimir e/ou salvar os jogos para conferir através do p
 
 ### Imprimindo os volantes
 
-Ao clicar no botão **Imprimir**  com os jogos gerados (mostrada acima), é exibida a janela de ajustes de impressão.
+Ao clicar no botão **Imprimir**  na janela com os jogos gerados (mostrada acima), é exibida a janela de ajustes de impressão.
 Como as medidas dos volantes não seguem um padrão fixo, o usuário deve informar as medidas das regiões exibidas nas imagens.
 Os quatro jogos gerados seão impressos em dois volantes da Lotofácil, que o usuário obtém em qualquer casa lotérica.
 
