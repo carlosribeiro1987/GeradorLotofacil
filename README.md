@@ -43,7 +43,7 @@ A figura abaixo mostra a janela com os jogos conferidos.
 
 ![Conferir Jogos Salvos](http://i.imgur.com/1cUODPF.png)
 
-###Como os jogos são gerados?
+### Como os jogos são gerados?
 
 Baseado no último resultado, o algoritmo de geração automática de jogos escolhe:
 
