@@ -66,7 +66,7 @@ Baseado no último resultado, o algoritmo de geração automática de jogos esco
 Dessa forma, acertando as dezenas fixas e uma das combinações, ganha-se o prêmio máximo. O mesmo ocorre caso não acerte nenhuma das dezenas fixas.
 No método manual, a escolha das dezenas fica a critério do usuário
 
-##Licença:
+## Licença:
 Este programa está sob a licença [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
 Você pode alterar e distribuir este programa, desde que mantido os créditos do criador. Para mais informações, consulte a [licença GPL v.3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
